@@ -1,0 +1,45 @@
+h1
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: beige;
+}
+body
+{
+    background-color: black;
+}
+img
+{
+    position: absolute;
+    height: 400px;
+    width: 400px;
+    top: 100px;
+    left: 470px;
+}
+ul
+{
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: beige;
+    position: relative;
+}
+p
+{
+    color: beige;
+    position: relative;
+    top: 500px;
+    text-align: center;
+    font-size: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 70px;
+}
+#box
+{
+    border: 2px solid;
+    border-color:aliceblue;
+    box-sizing: border-box;
+    width: 400px;
+    height: 300px;
+    position: absolute;
+}
